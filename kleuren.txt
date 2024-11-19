@@ -1,0 +1,23 @@
+Hoofdtitel
+----------
+#bd0008
+
+Eerste blok
+-----------
+Achtergrondkleur: #d3d68c
+Kleur titel: #000000
+
+Tweede blok
+-----------
+Achtergrondkleur: #542f2c
+Kleur titel: #f39809
+
+Derde blok
+----------
+Achtergrondkleur: #b20000
+Kleur titel: #ffffff
+
+Knop onderaan
+-------------
+Achtergrondkleur: #84881a
+Voorgrondkleur: #ffffff
